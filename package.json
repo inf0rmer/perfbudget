@@ -1,0 +1,18 @@
+{
+  "name": "perfbudget",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bin/perfbudget",
+  "scripts": {
+    "test": "mocha spec/**/*Spec.js"
+  },
+  "author": "Bruno Abrantes",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "yargs": "^4.2.0"
+  }
+}
